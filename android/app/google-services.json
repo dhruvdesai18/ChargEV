@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "389074263439",
+    "project_id": "mini-project-829ca",
+    "storage_bucket": "mini-project-829ca.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:389074263439:android:13345ca43f315c8fe8bffa",
+        "android_client_info": {
+          "package_name": "com.project.EVPower"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "389074263439-bnfhsqomvh6f94e73j4r046i103slgsi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnK_ShPDMgF1LWSaGEkjg6NudwocDJwLs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "389074263439-bnfhsqomvh6f94e73j4r046i103slgsi.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "389074263439-ju3qoqcpv3fhd6u1934um8g4p7o0m3or.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.ev.app"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:389074263439:android:de6d59f48c4c559fe8bffa",
+        "android_client_info": {
+          "package_name": "com.warriors.evsathi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "389074263439-bnfhsqomvh6f94e73j4r046i103slgsi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnK_ShPDMgF1LWSaGEkjg6NudwocDJwLs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "389074263439-bnfhsqomvh6f94e73j4r046i103slgsi.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "389074263439-ju3qoqcpv3fhd6u1934um8g4p7o0m3or.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.ev.app"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
